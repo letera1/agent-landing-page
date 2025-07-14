@@ -14,7 +14,7 @@ const Pricing = () => {
             className="relative z-1"
             width={255}
             height={255}
-            alt="Sphere"
+            alt="sphere"
           />
           <div className="absolute top-1/2 left-1/2 w-[60rem] -translate-x-1/2 -translate-y-1/2 pointer-events-none">
             <img
@@ -22,13 +22,13 @@ const Pricing = () => {
               className="w-full"
               width={950}
               height={400}
-              alt="Stars"
+              alt="stars"
             />
           </div>
         </div>
 
         <Heading
-          tag="Get started with Brainwave"
+          tag="get started with brainwave"
           title="Pay once, use forever"
         />
 
@@ -43,7 +43,7 @@ const Pricing = () => {
             className="text-xs font-code font-bold tracking-wider uppercase border-b"
             href="/pricing"
           >
-            See the full details
+            See the Full Details
           </a>
         </div>
       </div>
