@@ -29,7 +29,7 @@ const Roadmap = () => (
                     src={grid}
                     width={550}
                     height={550}
-                    alt="Grid"
+                    alt="grid"
                   />
                 </div>
                 <div className="relative z-1">
@@ -69,7 +69,7 @@ const Roadmap = () => (
       </div>
 
       <div className="flex justify-center mt-12 md:mt-15 xl:mt-20">
-        <Button href="/roadmap">Our roadmap</Button>
+        <Button href="/roadmap">Our Roadmap</Button>
       </div>
     </div>
   </Section>
