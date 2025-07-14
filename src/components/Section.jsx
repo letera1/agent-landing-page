@@ -1,5 +1,5 @@
 import SectionSvg from "../assets/svg/SectionSvg";
-
+//section
 const Section = ({
   className,
   id,
